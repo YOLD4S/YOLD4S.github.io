@@ -1,0 +1,38 @@
+.f{
+    text-align: center;
+}
+
+.ta{
+    text-align: center;
+    background-color: rgb(163, 250, 250);
+    border: 1px black solid;
+    margin: 25px auto;
+    width: 350px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.ta:hover{
+    background-color: rgb(136, 208, 208);
+}
+
+.imgg{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 992px){
+#qs{
+    width: 90%;
+}
+}
+
+.answer, .back{
+    text-align: center;
+}
+
+input.form-control::placeholder {
+    opacity: .9;
+}
