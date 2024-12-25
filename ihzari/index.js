@@ -8,7 +8,14 @@ let answers =      ["D","C","D","A","A","D","C","A","D","A", // metni akaid
                     "A","A","D","B","D","A","B","D","D","D", // menar
                     "B","D","C","A","C","C","D","B","D","C", // menar
                     "D","C","A","C","C","B","D","A","D","D", // menar
-                    "D","C","A","B","D","C","B"];            // menar 90          
+                    "D","C","A","B","D","C","B",             // menar 90 
+                    "D","C","A","C","C","B","D","A","D","D",  
+                    "D","C","A","C","C","B","D","A","D","D",  
+                    "D","C","A","C","C","B","D","A","D","D",  
+                    "D","C","A","C","C","B","D","A","D","D",  
+                    "D","C","A","C","C","B","D","A","D","D",  
+                    "D","C","A","C","C","B","D","A","D","D",  
+                    "D","C","A","C","C","B"];       
 
 let images_folder = "ihzari_images";
 let img_format = ".PNG";

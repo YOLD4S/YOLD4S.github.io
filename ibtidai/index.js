@@ -7,9 +7,15 @@ let answers =           ["C","C","A","C","A","A","B","D","D","B",
                         "B","C","A","D","D","A","A","B","A","B",
                         "A","A","A","A","B","D","C","A","B","D",
                         "A","A","C","A","C","A","B","B","A","C",
+                        "B","B","B","D","A","A","C","D","B","A",
+                        "C","D","A","B","B","C","A","B","D","A",
+                        "C","A","B","C","A","A","A","A","D","B",
+                        "B","C","A","D","D","A","A","B","A","B",
+                        "A","A","A","A","B","D","C","A","B","D",
+                        "A","A","C","A","C","A","B","B","A","C",
                         "D","D","D","D","D","A","D","D","C","A",
                         "C","C","C","B","B","C","B","D","D","C",
-                        "B"];
+                        "C","B","B","B"];
 
 let images_folder = "ibtidai_images";
 let img_format = ".PNG";
